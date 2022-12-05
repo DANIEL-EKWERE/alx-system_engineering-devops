@@ -1,0 +1,2 @@
+hk#!/bin/bash
+egret "root" /etc/passwd
